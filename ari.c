@@ -8,6 +8,7 @@ typedef struct {
    int score;
    string age;
    string gradelevel;
+
 } Grade;
 
 
@@ -61,5 +62,5 @@ string ari(string s){
  
  }
  
-}
+ }
 
