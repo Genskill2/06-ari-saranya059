@@ -2,6 +2,7 @@
 #include <assert.h>
 #include <string.h>
 #include <cs50.h>
+#include <ctype.h>
 
 string ari(string);
 
@@ -26,6 +27,7 @@ int main(void) {
   test2();
   test3();
 }
+
 typedef struct {
    int score;
    string age;
